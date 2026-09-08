@@ -14,7 +14,7 @@
     "jimp": "^0.16.2",
     "js-yaml": "^4.1.0",
     "jszip": "^3.10.1",
-    "liquidjs": "^9.25.1",
+    "liquidjs": "^10.27.2",
     "node-fetch": "^2.6.1",
     "puppeteer": "^24.2.0",
     "sqlite3": "^5.1.7",
